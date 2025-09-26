@@ -11,6 +11,7 @@ def reverse_string(mystring):
     Reverses the ordering of characters in a string using a simple loop.
     Input: a string.
     Output: a completely reversed version of that string, including all characters.
+    No, Meg, this is my edit line. 
     """
 
     reversed_string = ""
